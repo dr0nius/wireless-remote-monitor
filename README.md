@@ -14,7 +14,8 @@
 Before we get started, here's a quick overview of what you'll need to build the Remote Monitor
 
 **Electronic Components**
-
+* 1x [Twilio Programma Wireless SIM](https://www.twilio.com/console/wireless/sims/orders/new)
+    * Looking for access to Programmable Wireless? Use the Access Code **blueprints**
 * [Raspberry Pi Zero](https://www.adafruit.com/products/2885)
 * [Raspberry Pi Camera](https://www.adafruit.com/products/3099)
 * [Raspberry Pi Zero Camera Connector](https://www.adafruit.com/products/3157)
