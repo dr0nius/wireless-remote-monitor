@@ -73,7 +73,7 @@ Now that your server is running you'll need to make sure that the Remote Monitor
         lt --port 8000
         your url is: http://xxxx.localtunnel.me
 
-4. Enter this URL as your **server_url** in the [config.js](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/node/config/config.js) file and save it for the Remote Monitor's Python script setup.
+4. Enter this URL as your **server_url** in the [config.js](config/config.js) file and save it for the Remote Monitor's Python script setup.
 
 **Adding the camera**: The first thing we'll need to do is add the camera to your database. This can be done from the web interface.
 
@@ -84,7 +84,7 @@ Now that your server is running you'll need to make sure that the Remote Monitor
 * You will need the Camera ID, Name, and Token when setting up your Remote Monitor's Python script.
 
 **Setting up the Raspberry Pi Script**
-Your server should be ready to go. The instructions for setting up the Pi script are located [in the pi directory](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/pi/README.md)
+Your server should be ready to go. The instructions for setting up the Pi script are located [in the pi directory](../pi/README.md)
 
 ****
 
