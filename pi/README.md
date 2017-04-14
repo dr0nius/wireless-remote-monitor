@@ -1,4 +1,4 @@
-# Blueprint #3 - Remote Monitor - Backend App
+# Remote Monitor
 ### Set up the Raspberry Pi Zero Remote Monitor Script
 
 You can, technically, do this next step from the Raspberry Pi Zero if you have an internet connection. The 3G modem will work wonders here, if already assembled.

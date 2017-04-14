@@ -1,4 +1,4 @@
-# Blueprint #3 - Remote Monitor - Backend App
+# Remote Monitor
 ### Remote Security Monitoring
 
 
