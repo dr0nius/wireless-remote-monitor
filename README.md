@@ -16,18 +16,18 @@ Before we get started, here's a quick overview of what you'll need to build the 
 **Electronic Components**
 * 1x [Twilio Programma Wireless SIM](https://www.twilio.com/console/wireless/sims/orders/new)
     * Looking for access to Programmable Wireless? Use the Access Code **blueprints**
-* [Raspberry Pi Zero](https://www.adafruit.com/products/2885)
-* [Raspberry Pi Camera](https://www.adafruit.com/products/3099)
-* [Raspberry Pi Zero Camera Connector](https://www.adafruit.com/products/3157)
+* 1x [Raspberry Pi Zero](https://www.adafruit.com/products/2885)
+* 1x [Raspberry Pi Camera](https://www.adafruit.com/products/3099)
+* 1x [Raspberry Pi Zero Camera Connector](https://www.adafruit.com/products/3157)
 * [Option 1. USB 3G Modem](http://microcontrollershop.com/product_info.php?products_id=6257)
 * [Option 2. USB 4G Modem](https://www.amazon.com/dp/B01M0JY15V/ref=psdc_284715_t1_B01KP537VS)
   * The Huawei E397u-53 is a larger USB Module. It will work well but does not fit perfectly within the 3D-Printout.
-* [External Battery/Power Bank](https://www.amazon.com/Aukey-PB-N37-5000mAh-Ultra-Portable-Smartphones/dp/B015E363IK/ref=sr_1_1?ie=UTF8&qid=1478402174&sr=8-1&keywords=B015E363IK)
-* [8" USB Cable Micro B to Micro B](https://www.startech.com/Cables/USB-2.0/USB-Adapters/usb-otg-cable-micro-micro~UUUSBOTG8IN)
-* [Micro USB Female Waterproof Connector](http://www.usbfirewire.com/parts/rr-11a200-80.html#RR-11A200-80)
-* [Seal Cap](http://www.usbfirewire.com/parts/rr-1c522122.html#RR-1C522122)
-* [6" USB Cable A Male to Micro B Male](https://www.amazon.com/Micro-USB-Cable-Type-Motorola/dp/B01B4GAWII/ref=sr_1_1?ie=UTF8&qid=1478402202&sr=8-1&keywords=B01B4GAWII)
-* [6" USB Cable A Female to Micro B Male](https://www.amazon.com/Adapter-Samusung-Android-Windows-Function/dp/B00LN3LQKQ/ref=sr_1_1?ie=UTF8&qid=1478402225&sr=8-1&keywords=B00LN3LQKQ)
+* 1x [External Battery/Power Bank](https://www.amazon.com/Aukey-PB-N37-5000mAh-Ultra-Portable-Smartphones/dp/B015E363IK/ref=sr_1_1?ie=UTF8&qid=1478402174&sr=8-1&keywords=B015E363IK)
+* 1x [8" USB Cable Micro B to Micro B](https://www.startech.com/Cables/USB-2.0/USB-Adapters/usb-otg-cable-micro-micro~UUUSBOTG8IN)
+* 1x [Micro USB Female Waterproof Connector](http://www.usbfirewire.com/parts/rr-11a200-80.html#RR-11A200-80)
+* 1x [Seal Cap](http://www.usbfirewire.com/parts/rr-1c522122.html#RR-1C522122)
+* 1x [6" USB Cable A Male to Micro B Male](https://www.amazon.com/Micro-USB-Cable-Type-Motorola/dp/B01B4GAWII/ref=sr_1_1?ie=UTF8&qid=1478402202&sr=8-1&keywords=B01B4GAWII)
+* 1x [6" USB Cable A Female to Micro B Male](https://www.amazon.com/Adapter-Samusung-Android-Windows-Function/dp/B00LN3LQKQ/ref=sr_1_1?ie=UTF8&qid=1478402225&sr=8-1&keywords=B00LN3LQKQ)
 
 **Other Hardware**
 
