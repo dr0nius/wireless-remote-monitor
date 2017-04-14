@@ -3,7 +3,7 @@
 
 You can, technically, do this next step from the Raspberry Pi Zero if you have an internet connection. The 3G modem will work wonders here, if already assembled.
 
-1. Download the python script from the repository **[remote_monitor.py.](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/pi/remote_monitor.py)** (An alternative is to download the script to a USB Flash Drive and transfer it to the Pi.)
+1. Download the python script from the repository **[remote_monitor.py.](../pi/remote_monitor.py)** (An alternative is to download the script to a USB Flash Drive and transfer it to the Pi.)
 3. Then, **copy our python script** (remote_monitor.py) onto the Pi. We added it to the Documents directory /home/pi/Documents/.
 4. To run this file, you will need to install the packages picamera and socketIO client, which can be done with PIP. From the terminal’s command line, **type these two commands:**
 
