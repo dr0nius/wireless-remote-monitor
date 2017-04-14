@@ -35,13 +35,13 @@ Before we get started, here's a quick overview of what you'll need to build the 
 * 2x [Threaded Inserts for Camera Cover 1/4"-20 Thread](https://www.mcmaster.com/#92395a116/=16vapiu)
 * 1x [Bob Smith 103 Insta-Cure 2oz Super Thin Glue](https://www.amazon.com/Bob-Smith-Insta-Cure-Super-Thin/dp/B001NI4JWI)
 
-**(Optional) 3D-Printed Parts** In addition to the electronic components and mechanical hardware, the body of the Remote Monitor is fabricated from 3D-printed parts. You can download the [3D CAD Model here](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/models/16074-200%20Body%20rev6.STL) Using this 3D CAD Model, you have a few options for actually building the body:
+**(Optional) 3D-Printed Parts** In addition to the electronic components and mechanical hardware, the body of the Remote Monitor is fabricated from 3D-printed parts. You can download the [3D CAD Model here](https://github.com/twilio/wireless-remote-monitor/blob/master/models/01%20Body%20Option%202.STL) Using this 3D CAD Model, you have a few options for actually building the body:
 
 * Print it, if you have access to a 3D printer.
 * Alternatively, if you don't have access to 3D printer or want to ensure quality, you could use a third-party 3D printing service. We recommend [Sculpteo](http://sculpteo.com) or [Voodoo Manufacturing](https://voodoomfg.com/).
 
 **(Optional) Laser Cut Parts** The Remote Monitor has three clear cover panels that attach to the outside of the 3D-printed case. You will need to build these as well.
-You can download the [two panel models here](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/models/16074-201%20Fplate.svg) and the [camera cover panel model here](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/models/16074-202%20Camera%20Cover.svg).
+You can download the [two panel models here](https://github.com/twilio/wireless-remote-monitor/blob/master/models/cameraCoverPlateP.dxf) and the [camera cover panel model here](https://github.com/twilio/wireless-remote-monitor/blob/master/models/cameraLensCoverPlateP.dxf).
 As with the body, you can make the panels yourself based on the designs or choose to use a third-party service. We again recommend [Sculpteo](http://sculpteo.com).
 
 _Whether you are cutting and printing yourself or using a service, **double-check the units and dimensions of all parts after uploading**._
@@ -72,7 +72,7 @@ _Whether you are cutting and printing yourself or using a service, **double-chec
 #### Step 1: Install threaded inserts.
 Once your parts are cleaned and finished, and you have all the necessary hardware, you need to insert the screw-to-expand threaded inserts into their holes.
 
-* The [remote monitor body](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/models/01%20Body.STL) uses three different sizes of threaded insert:
+* The [remote monitor body](https://github.com/twilio/wireless-remote-monitor/blob/master/models/01%20Body%20Option%202.STL) uses three different sizes of threaded insert:
 * Two 2-56 inserts are used in the circular camera pocket.
 * Four 4-40 inserts are used in the rectangular component pockets.
 * Two ¼-20 inserts are used on the outer edges.
@@ -161,11 +161,11 @@ Now it’s time to move to the desktop.
 
 #### Step 4: Setup the server
 
-Directions on the server setup can be found [here](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/node/README.md)
+Directions on the server setup can be found [here](node/README.md)
 
 #### Step 5: Set up the Raspberry Pi Zero ‘Remote Monitor’ software
 
-* Directions for setting up and running the Remote Monitor script can be found [here](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/pi/README.md)
+* Directions for setting up and running the Remote Monitor script can be found [here](pi/README.md)
 * You are now ready to assemble the camera enclosure.
 * **Shut down the Raspberry Pi Zero and disconnect everything**.
 
@@ -236,7 +236,7 @@ It’s now time to install the Raspberry Pi Zero camera and camera cable. The ca
 
 ![image alt text*](images/image_19.jpg)
 
-* Now that the camera is seated, attach the [circular cover](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/models/03%20Camera%20Cover.svg) over the camera. **Place the disc over the camera and align the holes**.
+* Now that the camera is seated, attach the [circular cover](https://github.com/twilio/wireless-remote-monitor/blob/master/models/cameraLensCoverPlateP.dxf) over the camera. **Place the disc over the camera and align the holes**.
 * **Use an allen key (hex wrench) to tighten down the two #2-56x1/4" bolts**.
 
 ![image alt text*](images/image_20.jpg)
@@ -272,7 +272,7 @@ You’ll be following a similar method attaching the Raspberry Pi Zero as you di
 
 At this point, the control side of the Remote Monitor system is complete!
 
-You can now **attach [one of the covers](https://github.com/Deeplocal/blueprints/blob/master/remote-monitor/models/02%20Side%20Cover.svg)** onto the side of the system. The covers for the sides of the camera are identical.
+You can now **attach [one of the covers](https://github.com/twilio/wireless-remote-monitor/blob/master/models/cameraCoverPlateP.dxf)** onto the side of the system. The covers for the sides of the camera are identical.
 
 * **Try laying a cover into the pocket**; if the holes line up and the cover seats properly into its recess, you can screw in your thumb screws.
 * If not, **try rotating the cover 180 degrees**. The holes should now line up.
