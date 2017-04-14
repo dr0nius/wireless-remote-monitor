@@ -18,7 +18,9 @@ Before we get started, here's a quick overview of what you'll need to build the 
 * [Raspberry Pi Zero](https://www.adafruit.com/products/2885)
 * [Raspberry Pi Camera](https://www.adafruit.com/products/3099)
 * [Raspberry Pi Zero Camera Connector](https://www.adafruit.com/products/3157)
-* [USB 3G Modem](http://www.newegg.com/Product/Product.aspx?Item=9SIA72540S1185&ignorebbr=1&nm_mc=KNC-GoogleMKP-PC&cm_mmc=KNC-GoogleMKP-PC-_-pla-_-Modems-_-9SIA72540S1185&gclid=CPnFsJ6s8dACFQdYDQodPtAE_A&gclsrc=aw.ds)
+* [Option 1. USB 3G Modem](https://www.amazon.com/dp/B01KP537VS/ref=psdc_284715_t2_B01M0JY15V)
+* [Option 2. USB 4G Modem](https://www.amazon.com/dp/B01M0JY15V/ref=psdc_284715_t1_B01KP537VS)
+ * The Huawei E397u-53 is a larger USB Module. It will work well does not fit perfectly within the 3D-Printout.
 * [External Battery/Power Bank](https://www.amazon.com/Aukey-PB-N37-5000mAh-Ultra-Portable-Smartphones/dp/B015E363IK/ref=sr_1_1?ie=UTF8&qid=1478402174&sr=8-1&keywords=B015E363IK)
 * [8" USB Cable Micro B to Micro B](https://www.startech.com/Cables/USB-2.0/USB-Adapters/usb-otg-cable-micro-micro~UUUSBOTG8IN)
 * [Micro USB Female Waterproof Connector](http://www.usbfirewire.com/parts/rr-11a200-80.html#RR-11A200-80)
